@@ -1,7 +1,7 @@
 ### Team Mates :
 1. A.B.V.R.Jyothi (Register No : 18PA1A0502)
 2. D.Anusha (Register No : 18PA1A0539)
-
+3. V.Preethi (Register No : 18PA1A1247) 
 ### Objective : 
   - This Chatbot performs calculations by evaluating the expressions given by the user.
   - It also provides weather report for the user specified city.
